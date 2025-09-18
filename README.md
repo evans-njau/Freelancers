@@ -28,7 +28,7 @@ The dataset includes information on:
 
 Here’s a snapshot of the Excel dashboard built for this project:  
 
-![Dashboard Preview](Screenshot(35).png)
+![Dashboard Preview](https://github.com/evans-njau/Freelancers/blob/master/Screenshot%20(35).png)
 
 ### 🌍 Freelancers by Country  
 - Countries with the **highest number of freelancers** include India, USA, Philippines, and Kenya.  
